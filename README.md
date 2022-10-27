@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Borja Ramos
 ===================================================================================================================================
 
-Future Front End Developer and Designer
+Future Front End Developer
 ---------------------------------------
 
-I'm a web developer with an accounting & auditing background based in Tokyo (Japan). After over ten years of experience working as accountant I decided changing career and started learning coding on my own. First I started with HTML and CSS and I am currently learning JavaScript. I really love coding and I know someday I will find a job as developer. I am really excited about writing this new chapter of my life :)
+I'm a web developer with an accounting & auditing background based in Tokyo (Japan). After over ten years of experience working as accountant I decided changing career and started learning coding on my own. First I started with HTML, CSS, JavaScript and currently I am learning React. I really love coding and I know someday I will find a job as developer.
 
 * 🌍  I'm based in Tokyo
 * ✉️  You can contact me at [bramosalcaine@gmail.com](mailto:bramosalcaine@gmail.com)
-* 🧠  I'm learning JavaScript
+* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Interesting Projects with amazing people
 * ⚡  Addicted to fitness/bodybuilding💪 and ❤️coffee
 
